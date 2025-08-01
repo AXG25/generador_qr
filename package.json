@@ -1,0 +1,23 @@
+{
+  "name": "generador_qr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXG25/generador_qr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AXG25/generador_qr/issues"
+  },
+  "homepage": "https://github.com/AXG25/generador_qr#readme",
+  "description": "",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
